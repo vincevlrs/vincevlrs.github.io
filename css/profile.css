@@ -10,16 +10,16 @@ html {
 .prof-box{
 	width: 700px;
 	height: 700px;
-	background: rgba(0,0,0,0.9);
+	background: rgba(0,0,0,0.8);
 	padding: 40px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 140px;
+	margin-top: 100px;
 	text-align: center;
 }
 
 .prof-pic {
-	border-radius: : 50%;
+	border-radius: 50%;
 	height: 200px;
 	width: 200px;
 }
@@ -42,6 +42,7 @@ h5{
 .line-break {
 	width: 400px;
 	margin:0 auto;
+	margin-bottom: 30px;
 	border-top: 1px solid white;
 }
 
@@ -49,6 +50,7 @@ h5{
 	float:left;
 	width: 170px;
 	padding: 10px;
+	padding-left: 15px;
 	margin: 15px;
 }
 .box-1{
