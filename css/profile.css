@@ -6,7 +6,10 @@ html {
   background-size: cover;
   font-family: 'Helvetica Neue', sans-serif;
 }
-
+a{
+	text-decoration: none;
+	color: white;
+}
 .prof-box{
 	width: 700px;
 	height: 700px;
@@ -19,7 +22,7 @@ html {
 }
 
 .prof-pic {
-	border-radius: : 50%;
+	border-radius: 50%;
 	height: 200px;
 	width: 200px;
 }
@@ -36,7 +39,7 @@ p{
 }
 
 h5{
-	padding-left: 40px;
+	/* padding-left: 40px; */
 }
 
 .line-break {
